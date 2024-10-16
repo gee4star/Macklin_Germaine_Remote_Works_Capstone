@@ -1,9 +1,9 @@
-# Remote Works Website This application is a jobs website for findine Remote positions of various areas of tech
+# Remote Works Website: This application is a jobs website for finding Remote positions of various areas of tech
 ## The technologies used in this project are HTML, CSS with Tailwind, and JavaScript
-### Challenges faced during the making of this application include,keeping the pages of the website consistant in the styling for a more professional appearence
+### Challenges faced during the making of this application include,keeping the pages of the website consistent in the styling for a more professional appearence, keeping my margins consistent, I had a hard time positioning some parts in CSS, they would move back to the previous position after pushing the page button, 
 #### If I had more time to make changes and additions to this application , I would have liked to learn how to make more dynamic page transitions, and I would have included more links to further information about uploading cv's
 ##### I found this particular project inspiration on the Frontend Mentor website, I also found information to make this website on GeeksforGeeks.org, Tailwindcss.com, Stack Overflow, MDN, Computerhope.com, Google, and w3schools
-###### Thank you, for checking out this Remote Work application 
+###### Thank you, for checking out this Remote Works application 
 
 
 
