@@ -3,6 +3,7 @@
 ### Challenges faced during the making of this application include,keeping the pages of the website consistent in the styling for a more professional appearence, keeping my margins consistent, I had a hard time positioning some parts in CSS, they would move back to the previous position after pushing the page button, 
 #### If I had more time to make changes and additions to this application , I would have liked to learn how to make more dynamic page transitions, and I would have included more links to further information about uploading cv's
 ##### I found this particular project inspiration on the Frontend Mentor website, I also found information to make this website on GeeksforGeeks.org, Tailwindcss.com, Stack Overflow, MDN, Computerhope.com, Google, and w3schools
+##### In the future I would like to add a social media login form to the Home page
 ###### Thank you, for checking out this Remote Works application 
 
 
