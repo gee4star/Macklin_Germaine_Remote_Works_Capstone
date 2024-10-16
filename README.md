@@ -3,7 +3,7 @@
 ### Challenges faced during the making of this application include,keeping the pages of the website consistant in the styling for a more professional appearence
 #### If I had more time to make changes and additions to this application , I would have liked to learn how to make more dynamic page transitions, and I would have included more links to further information about uploading cv's
 ##### I found this particular project inspiration on the Frontend Mentor website
-###### Thankyou, for checking out this Remote Work application 
+###### Thank you, for checking out this Remote Work application 
 
 
 
