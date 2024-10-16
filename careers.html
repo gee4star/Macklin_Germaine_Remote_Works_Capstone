@@ -73,7 +73,7 @@
           </div>
           <div class="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div class="flex flex-shrink-0 items-center">
-              <img class="h-8 w-auto" src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=500" alt="Your Company">
+              <img class="h-12 w-auto" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm4xaXB4aXhnanZoazN0cHJyajh4N2FxeTVhcTBqbHkxNDZlajhsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C5XNAjTMdOfIMxZf0m/giphy.webp">
             </div>
             <div class="hidden sm:ml-6 sm:block">
               <div class="flex space-x-4">
@@ -101,8 +101,9 @@
                   <span class="absolute -inset-1.5"></span>
                   <span class="sr-only">Open user menu</span>
                   <!-- TODO - CHange the profile picture-->
-                  <img class="h-8 w-8 rounded-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+                  <!-- <img class="h-8 w-8 rounded-full" src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt=""> -->
                   <!-- <img class="h-8 w-8 rounded-full" src="https://unsplash.com/smiling-woman-looking-on-right-side-during-daytime-3dqSZidOkvs" alt=""> -->
+                   <img class="h-8 w-8 rounded-full" src="https://cdn4.iconfinder.com/data/icons/untact-outline-part-1/128/ic_disabled-1024.png" alt="">
                 </button>
               </div>
     
@@ -141,21 +142,75 @@
     
 
     <img class="object-right lgpicture" src="/images/image-hero-desktop.png">
+    <section id="first">
+      <span>REMOTE WORKS</span>
+    </section>
+
+
 <section id="mrw-overall">
   <h1 id="mrw">Careers</h1>
   <!-- <h1 id="mrw">remote work</h1> -->
 </section>
 
 <p id="gyt">
-  Find your dream career with Snap remote work! Were on the hunt for fresh talent, take a look at our openings.
+  Find your dream career with Remote Works! We're on the hunt for fresh talent, take a look at our openings. Click the show careers button below to learn more about tech careers you want to pursue.
 </p>
+
+<input id="showHideCareers" type="button" value="Show/Hide Careers"/>
+<table  id="careersTable" style="display:none" cellpadding="1" cellspacing="0">
+    <tr>
+            <td><a href="https://www.zippia.com/associate-software-engineer-jobs/what-does-an-associate-software-engineer-do/">Associate Software Engineer</a></td>
+            </tr>
+             <tr>
+            <td><a href="https://www.fullstackacademy.com/blog/what-do-software-engineers-do">Software Engineer</a></td>
+            </tr>
+             <tr>
+            <td><a href="https://careerfoundry.com/en/blog/ux-design/what-does-a-ux-designer-actually-do/">UX Designer</a></td>
+            </tr>
+            <tr>
+            <td><a href="https://careerfoundry.com/en/blog/ui-design/what-does-a-ui-designer-actually-do/">UI Designer</a></td>
+            </tr>
+             <tr>
+            <td><a href="https://www.atlassian.com/agile/product-management/product-manager">Product Manager</a></td>
+            </tr>
+             <tr>
+            <td><a href="https://www.toptal.com/engineering-management/a-day-in-life-engineering-manager">Engineering Manager</a></td>
+            </tr>
+       
+              <tr>
+            <td> Technical Writer</td>
+            </tr>
+            <tr>
+            <td> IT Help Desk</td>
+            </tr>
+       
+            <tr>
+            <td>QA Engineer</td>
+            </tr>
+            <tr>
+            <td>Developer Advocate</td>
+            </tr>
+            <tr>
+            <td>Scrum Master</td>
+            </tr>
+            <tr>
+            <td>Social Media Manager</td>
+            </tr>
+            <tr>
+            <td>Data Scientist</td>
+            </tr>
+            <tr>
+            <td>Recruiter</td>
+            </tr>
+</table> 
+
 <button onclick="welcome()" id="lm" class="ml-9 bg-indigo-700 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
   Learn more
 </button>
 
 <!-- <button type="button" id="lm" class="btn btn-dark">Learn more</button> -->
 
-<footer class="flex space-x-10 mt-20 ml-40">
+<footer class="icons flex space-x-10 mt-20 ml-40">
   <img class="icon1" src="/images/client-databiz.svg">
   <img class="icon2" src="/images/client-audiophile.svg">
   <img class="icon3" src="/images/client-meet.svg">
