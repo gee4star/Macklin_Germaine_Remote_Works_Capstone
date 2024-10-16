@@ -1,3 +1,22 @@
+# Remote Work Website This application is a jobs website for findine Remote positions of various fields
+## The technologies used in this project are HTML, CSS with Tailwind, and JavaScript
+### Challenges faced during the making of this application include,keeping the pages of the website consistant in the styling for a more professional appearence
+#### If I had more time to make changes and additions to this application , I would have liked to learn how to make more dynamic page transitions, and I would have included more links to further information about uploading cv's
+##### I found this particular project inspiration on the Frontend Mentor website
+###### Thankyou, for checking out this Remote Work application 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Frontend Mentor - Intro section with dropdown navigation
 
 ![Design preview for the Intro section with dropdown navigation coding challenge](./design/desktop-preview.jpg)
