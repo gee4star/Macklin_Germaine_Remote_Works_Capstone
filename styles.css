@@ -16,8 +16,10 @@
   font-size: 80px;
   font-family: Arial, Helvetica, sans-serif;
   
-  max-width: 50vw;
-  font-weight: bold;    
+  max-width: 480px;
+  font-weight: bold; 
+  line-height: 87px;
+
 }
 
 #gyt{
@@ -33,7 +35,7 @@
 }
 .lgpicture{
   float: right;
-  height: 100vh;
+  height: 80vh;
   margin-right: 10vw;
 }
 .careers1{
